@@ -1,31 +1,58 @@
-<img src="assets/hero.svg" width="100%" alt="남윤수 · 충남삼성고 3학년 · CNSAi 팀장">
+## 남윤수
 
-<img src="assets/stats.svg" width="100%" alt="수상 20 · 대상 3 · 최우수상 3 · 라이브 데모 10">
+충남삼성고등학교 3학년 · AI 팀 **CNSAi** 팀장 · 반도체·전기전자 동아리 **NanoX** 부기장
 
-<br>
+기존 기술이 실패하는 사람에서 문제를 찾고, AI 모델과 3D·시뮬레이션을 엮어 실제로 쓰이는 웹 서비스로 만듭니다.
 
-<a href="https://liplab.fly.dev"><img src="assets/card-liplab.svg" width="49%" alt="LIPLAB"></a>&nbsp;<a href="https://snapcare.fly.dev"><img src="assets/card-snapcare.svg" width="49%" alt="SnapCare"></a>
-<a href="https://github.com/n1a2m3y4u5n/rundata"><img src="assets/card-rundata.svg" width="49%" alt="RunData"></a>&nbsp;<a href="https://github.com/n1a2m3y4u5n/meonbada-titan-sim"><img src="assets/card-meonbada.svg" width="49%" alt="먼바다호"></a>
-<a href="https://reloop.fly.dev"><img src="assets/card-reloop.svg" width="49%" alt="Reloop"></a>&nbsp;<a href="https://github.com/n1a2m3y4u5n/piezo-sim"><img src="assets/card-piezo.svg" width="49%" alt="압전 군중 감지"></a>
+### 대표 프로젝트
 
-<sub>카드를 누르면 데모(LIVE) 또는 저장소로 이동합니다 · 코드: [LIPLAB](https://github.com/n1a2m3y4u5n/liplab) · [SnapCare](https://github.com/n1a2m3y4u5n/snapcare-eicon) · [RunData](https://github.com/n1a2m3y4u5n/rundata) · [먼바다호](https://github.com/n1a2m3y4u5n/meonbada-titan-sim) · [Reloop](https://github.com/n1a2m3y4u5n/reloop-app) · [압전](https://github.com/n1a2m3y4u5n/piezo-sim)</sub>
+<a href="https://github.com/n1a2m3y4u5n/liplab"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-liplab-dark.svg"><img src="assets/pin-liplab-light.svg" width="49%" alt="liplab"></picture></a>
+<a href="https://github.com/n1a2m3y4u5n/snapcare-eicon"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-snapcare-dark.svg"><img src="assets/pin-snapcare-light.svg" width="49%" alt="snapcare"></picture></a>
+<a href="https://github.com/n1a2m3y4u5n/rundata"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-rundata-dark.svg"><img src="assets/pin-rundata-light.svg" width="49%" alt="rundata"></picture></a>
+<a href="https://github.com/n1a2m3y4u5n/meonbada-titan-sim"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-meonbada-dark.svg"><img src="assets/pin-meonbada-light.svg" width="49%" alt="meonbada-titan-sim"></picture></a>
+<a href="https://github.com/n1a2m3y4u5n/reloop-app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-reloop-dark.svg"><img src="assets/pin-reloop-light.svg" width="49%" alt="reloop-app"></picture></a>
+<a href="https://github.com/n1a2m3y4u5n/piezo-sim"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-piezo-dark.svg"><img src="assets/pin-piezo-light.svg" width="49%" alt="piezo-sim"></picture></a>
 
-<br><br>
+### 수상 20
 
-<img src="assets/awards.svg" width="100%" alt="수상 타임라인 2025~2026, 20건">
+| 날짜 | 등급 | 명의 | 대회 | 작품 |
+|---|---|---|---|---|
+| 2026.09.18 | 동상 | 국가데이터처장상 | 제28회 전국학생통계활용대회 | 건강정보 AI 생성 실태 분석 |
+| 2026.09.05 | 우수상 | (사)환경교육센터 이사장상 | 제15회 에너지·환경 탐구대회 | 산불 진압 하이드로겔 |
+| 2026.08.31 | **최우수상** | 충남삼성고등학교장상 | IT 디플로마 | |
+| 2026.08.29 | 금상 | 지식재산처장상 | 제17회 전국 창의적 문제해결능력 경진대회 | |
+| 2026.08.26 | **최우수상** | 지식재산처장상 | 제19회 전국학생창업발명경진대회 환경부 | LifeDoor |
+| 2026.08.26 | 우수상 | 한국지식재산보호원장상 | 제19회 전국학생창업발명경진대회 창업부 | Reloop |
+| 2026.08.14 | **대상** | KT 지니뮤직 사장상 (AX 뮤즈상) | 2026 K-AI 콘텐츠 공모전 Track B | [LIPLAB](https://github.com/n1a2m3y4u5n/liplab) |
+| 2026.08.08 | **대상** | 한국교원단체총연합회장상 | 제2회 세계발명학교엑스포 발명 아이디어·시제품 부문 | [RunData](https://github.com/n1a2m3y4u5n/rundata) |
+| 2026.08.08 | **대상** | 한국교원단체총연합회장상 | 제2회 세계발명학교엑스포 AI시대 문제해결 챌린지 부문 | 비탑승 주행거리 과금 |
+| 2026.08.07 | **최우수상** (고등부 2위) | 한국디지털교육협회장상 | 제16회 e-ICON 세계대회 | [SnapCare](https://github.com/n1a2m3y4u5n/snapcare-eicon) |
+| 2026.07.21 | 선발 | 한국언론인협회장 · 국회 디지털경제3.0포럼 대표의원 | 제11회 4차 산업혁명 AI 영재장학생 | |
+| 2026.04.22 | 은상 (2위) | 충남삼성고등학교장상 | 교내 청소년 과학 페어 | 해양 쓰레기 수거선 경로탐색 |
+| 2026.04.18 | 장려상 | 행복일자리운동본부 이사장상 | 제4회 IT코딩 발명 아이디어 및 에세이 경진대회 | [LIPLAB](https://github.com/n1a2m3y4u5n/liplab) |
+| 2026.02.26 | 동상 | 매일경제 회장상 | 제5회 MBN 원더차일드 창의발명대회 | [압전 군중 밀집도 감지](https://github.com/n1a2m3y4u5n/piezo-sim) |
+| 2025.12.31 | 장려상 | 충청남도교육감상 | 제6회 AI·SW 학생 동아리 한마당 | CNSAi |
+| 2025.11.08 | 우수상 | 선박해양플랜트연구소장상 | 제6회 미래바다 아이디어 공모전 | [먼바다호](https://github.com/n1a2m3y4u5n/meonbada-titan-sim) |
+| 2025.10.25 | 입상 | (사)나눔과기술 대표상 | 제17회 소외된 이웃과 함께하는 창의설계 경진대회 | InsuNest |
+| 2025.10.15 | 금상 (1위) | 충남삼성고등학교장상 | 교내 과학발명품 경진대회 | LifeDoor |
+| 2025.08.01 | 우수상 | UNIST 총장상 | 제9회 슈퍼컴퓨팅 청소년캠프 | MPI 감염병 확산 시뮬레이터 |
+| 2025.04.15 | 은상 (2위) | 충남삼성고등학교장상 | 교내 청소년 과학 페어 | [Reloop](https://github.com/n1a2m3y4u5n/reloop-app) |
 
-<br>
+### 활동
+
+| 기간 | 역할 | 한 일 |
+|---|---|---|
+| 2025 ~ 2026 | **CNSAi** 팀장 | 한국어 음성 AI 팀. LIPLAB·SnapCare 등 개발과 대회 출품 |
+| 2026 | **NanoX** 부기장 | 디지털 논리회로 강의, 74LS181 ALU 비정격 오류·STM32 UART 방식 비교 실습 보고서 공저 |
+| 2025 | **NanoX** 부기장 · CS부문 기장 | 「오토마타와 형식언어」 수업 2~7차시 설계·강의, 수준별 과제 출제와 채점 |
 
 ### 그 밖의 작업
 
 - **시뮬레이션·시각화**: [해양 쓰레기 수거선 경로](https://ocean-cleanup-sim.fly.dev) · [두 도선의 자기력선](https://namyunsu-bfield.fly.dev) · [GJK 충돌 판정](https://github.com/n1a2m3y4u5n/gjk-analyzer) · [LOD Playground](https://github.com/n1a2m3y4u5n/lod-playground) · [독도 시뮬레이터](https://github.com/n1a2m3y4u5n/dokdo-simulator)
-- **AI·데이터 연구**: [마이크로플라스틱 검출](https://microplastic-detection.fly.dev) · [건강정보 AI 오염 실태 크롤러](https://github.com/n1a2m3y4u5n/health-ai-pollution-crawler) · [스택 버퍼 오버플로우 탐지(BOF-SCFG)](https://github.com/n1a2m3y4u5n/bof-scfg) · [행렬 게임 AI](https://matrix-game-nys.fly.dev)
-- **교육용 서비스**: [피싱 인식 훈련](https://phishing-edu-demo.fly.dev) · [IlliHealth](https://illihealth-web.fly.dev) · [EduShield](https://github.com/n1a2m3y4u5n/edushield)
+- **AI·데이터 연구**: [마이크로플라스틱 검출](https://microplastic-detection.fly.dev) · [건강정보 AI 오염 실태 크롤러](https://github.com/n1a2m3y4u5n/health-ai-pollution-crawler) · [스택 버퍼 오버플로우 탐지](https://github.com/n1a2m3y4u5n/bof-scfg) · [행렬 게임 AI](https://matrix-game-nys.fly.dev)
+- **교육용 서비스**: [IlliHealth](https://illihealth-web.fly.dev) · [EduShield](https://github.com/n1a2m3y4u5n/edushield)
 - **하드웨어**: [바이오 하이드로겔 산불 진압 발사 장치](https://github.com/n1a2m3y4u5n/hydrogel-launcher) · [아두이노 CT 스캐너](https://github.com/n1a2m3y4u5n/ct-scanner)
-- **팀 협업 도구**: [CPS 본선 현장 운영 환경](https://github.com/n1a2m3y4u5n/cps-bonseon)
 
-### 다루는 기술
+### 기술
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,react,ts,nextjs,threejs,fastapi,flask,arduino,docker&perline=10" alt="Python, PyTorch, React, TypeScript, Next.js, three.js, FastAPI, Flask, Arduino, Docker">
-
-<sub>음성(wav2vec2·WavLM, CTC) · 비전(MediaPipe, 입술 판독) · ONNX 브라우저 추론 · 강화학습 · CFD · MPI 병렬 계산 · Fly.io 배포</sub>
+`Python` `PyTorch` `wav2vec2·WavLM` `MediaPipe` `ONNX Runtime Web` `React` `TypeScript` `Next.js` `three.js` `FastAPI` `Arduino` `MPI`
