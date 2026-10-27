@@ -98,7 +98,7 @@ LANG = {'JavaScript': '#f1e05a', 'TypeScript': '#3178c6', 'Python': '#3572A5', '
 
 CARDS = [
     ('liplab', 'liplab', '청각장애인을 위한 한국어 독화·발음·청능 훈련 웹앱', 'JavaScript', 'K-AI 콘텐츠 공모전 대상'),
-    ('snapcare', 'snapcare-eicon', '처방전을 찍으면 픽토그램·음성·다국어로 바꿔 주는 웹앱', 'Python', 'e-ICON 세계대회 최우수상 (고등부 2위)'),
+    ('snapcare', 'snapcare', '처방전을 찍으면 픽토그램·음성·다국어로 바꿔 주는 웹앱', 'Python', 'e-ICON 세계대회 최우수상 (고등부 2위)'),
     ('rundata', 'rundata', '러닝 경로에 공공 점검 미션을 배치하는 데이터 수집 플랫폼', 'TypeScript', '세계발명학교엑스포 대상'),
     ('meonbada', 'meonbada-titan-sim', '타이탄 메테인 바다를 항해하는 극저온 탐사선 시뮬레이터', 'JavaScript', '미래바다 아이디어 공모전 우수상'),
     ('reloop', 'reloop-app', '도시 음식물 쓰레기를 자원으로 되돌리는 순환형 푸드 플랫폼', 'JavaScript', '전국학생창업발명경진대회 우수상'),

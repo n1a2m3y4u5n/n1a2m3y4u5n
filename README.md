@@ -14,7 +14,7 @@
 ### 대표 프로젝트
 
 <a href="https://github.com/n1a2m3y4u5n/liplab"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-liplab-dark.svg"><img src="assets/pin-liplab-light.svg" width="49%" alt="liplab"></picture></a>
-<a href="https://github.com/n1a2m3y4u5n/snapcare-eicon"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-snapcare-dark.svg"><img src="assets/pin-snapcare-light.svg" width="49%" alt="snapcare"></picture></a>
+<a href="https://github.com/n1a2m3y4u5n/snapcare"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-snapcare-dark.svg"><img src="assets/pin-snapcare-light.svg" width="49%" alt="snapcare"></picture></a>
 <a href="https://github.com/n1a2m3y4u5n/rundata"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-rundata-dark.svg"><img src="assets/pin-rundata-light.svg" width="49%" alt="rundata"></picture></a>
 <a href="https://github.com/n1a2m3y4u5n/meonbada-titan-sim"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-meonbada-dark.svg"><img src="assets/pin-meonbada-light.svg" width="49%" alt="meonbada-titan-sim"></picture></a>
 <a href="https://github.com/n1a2m3y4u5n/reloop-app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-reloop-dark.svg"><img src="assets/pin-reloop-light.svg" width="49%" alt="reloop-app"></picture></a>
@@ -33,7 +33,7 @@
 | 2026.08.14 | **대상** | KT 지니뮤직 사장상 (AX 뮤즈상) | 2026 K-AI 콘텐츠 공모전 Track B | [LIPLAB](https://github.com/n1a2m3y4u5n/liplab) |
 | 2026.08.08 | **대상** | 한국교원단체총연합회장상 | 제2회 세계발명학교엑스포 발명 아이디어·시제품 부문 | [RunData](https://github.com/n1a2m3y4u5n/rundata) |
 | 2026.08.08 | **대상** | 한국교원단체총연합회장상 | 제2회 세계발명학교엑스포 AI시대 문제해결 챌린지 부문 | 비탑승 주행거리 과금 |
-| 2026.08.07 | **최우수상** (고등부 2위) | 한국디지털교육협회장상 | 제16회 e-ICON 세계대회 | [SnapCare](https://github.com/n1a2m3y4u5n/snapcare-eicon) |
+| 2026.08.07 | **최우수상** (고등부 2위) | 한국디지털교육협회장상 | 제16회 e-ICON 세계대회 | [SnapCare](https://github.com/n1a2m3y4u5n/snapcare) |
 | 2026.07.21 | 선발 | 한국언론인협회장 · 국회 디지털경제3.0포럼 대표의원 | 제11회 4차 산업혁명 AI 영재장학생 | |
 | 2026.04.22 | 은상 (2위) | 충남삼성고등학교장상 | 교내 청소년 과학 페어 | 해양 쓰레기 수거선 경로탐색 |
 | 2026.04.18 | 장려상 | 행복일자리운동본부 이사장상 | 제4회 IT코딩 발명 아이디어 및 에세이 경진대회 | [LIPLAB](https://github.com/n1a2m3y4u5n/liplab) |
