@@ -18,7 +18,7 @@
 <a href="https://github.com/n1a2m3y4u5n/rundata"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-rundata-dark.svg"><img src="assets/pin-rundata-light.svg" width="49%" alt="rundata"></picture></a>
 <a href="https://github.com/n1a2m3y4u5n/meonbada-titan-sim"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-meonbada-dark.svg"><img src="assets/pin-meonbada-light.svg" width="49%" alt="meonbada-titan-sim"></picture></a>
 <a href="https://github.com/n1a2m3y4u5n/reloop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-reloop-dark.svg"><img src="assets/pin-reloop-light.svg" width="49%" alt="reloop"></picture></a>
-<a href="https://github.com/n1a2m3y4u5n/piezo-crowd-sensing"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-piezo-dark.svg"><img src="assets/pin-piezo-light.svg" width="49%" alt="piezo-crowd-sensing"></picture></a>
+<a href="https://github.com/n1a2m3y4u5n/hydrogel-launcher"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-hydrogel-dark.svg"><img src="assets/pin-hydrogel-light.svg" width="49%" alt="hydrogel-launcher"></picture></a>
 
 ### 수상 20
 
@@ -37,7 +37,7 @@
 | 2026.07.21 | 선발 | 한국언론인협회장 · 국회 디지털경제3.0포럼 대표의원 | 제11회 4차 산업혁명 AI 영재장학생 | |
 | 2026.04.22 | 은상 (2위) | 충남삼성고등학교장상 | 교내 청소년 과학 페어 | 해양 쓰레기 수거선 경로탐색 |
 | 2026.04.18 | 장려상 | 행복일자리운동본부 이사장상 | 제4회 IT코딩 발명 아이디어 및 에세이 경진대회 | [LIPLAB](https://github.com/n1a2m3y4u5n/liplab) |
-| 2026.02.26 | 동상 | 매경미디어 회장상 | 제5회 MBN 원더차일드 창의발명대회 | [압전 군중 밀집도 감지](https://github.com/n1a2m3y4u5n/piezo-crowd-sensing) |
+| 2026.02.26 | 동상 | 매경미디어 회장상 | 제5회 MBN 원더차일드 창의발명대회 | 압전 군중 밀집도 감지 |
 | 2025.12.31 | 장려상 | 충청남도교육감상 | 제6회 AI·SW 학생 동아리 한마당 | CNSAi |
 | 2025.11.08 | 우수상 | 선박해양플랜트연구소장상 | 제6회 미래바다 아이디어 공모전 | [먼바다호](https://github.com/n1a2m3y4u5n/meonbada-titan-sim) |
 | 2025.10.25 | 입상 | (사)나눔과기술 대표상 | 제17회 소외된 이웃과 함께하는 창의설계 경진대회 | InsuNest |
@@ -50,7 +50,7 @@
 - **시뮬레이션·시각화**: [해양 쓰레기 수거선 경로](https://ocean-cleanup-sim.fly.dev) · [두 도선의 자기력선](https://namyunsu-bfield.fly.dev) · [GJK 충돌 판정](https://github.com/n1a2m3y4u5n/gjk-analyzer) · [LOD Playground](https://github.com/n1a2m3y4u5n/lod-playground) · [독도 시뮬레이터](https://github.com/n1a2m3y4u5n/dokdo-simulator)
 - **AI·데이터 연구**: [마이크로플라스틱 검출](https://microplastic-detection.fly.dev) · [건강정보 AI 오염 실태 크롤러](https://github.com/n1a2m3y4u5n/health-ai-pollution-crawler) · [스택 버퍼 오버플로우 탐지](https://github.com/n1a2m3y4u5n/bof-scfg) · [행렬 게임 AI](https://matrix-game-nys.fly.dev)
 - **교육용 서비스**: [IlliHealth](https://illihealth-web.fly.dev) · [EduShield](https://github.com/n1a2m3y4u5n/edushield)
-- **하드웨어**: [바이오 하이드로겔 산불 진압 발사 장치](https://github.com/n1a2m3y4u5n/hydrogel-launcher) · [아두이노 CT 스캐너](https://github.com/n1a2m3y4u5n/ct-scanner)
+- **하드웨어**: [아두이노 CT 스캐너](https://github.com/n1a2m3y4u5n/ct-scanner)
 
 ### 기술
 
