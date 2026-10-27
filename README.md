@@ -4,6 +4,11 @@
 
 기존 기술이 실패하는 사람에서 문제를 찾고, AI 모델과 3D·시뮬레이션을 엮어 실제로 쓰이는 웹 서비스로 만듭니다.
 
+### 활동
+
+- **2025 ~ 2026** · 반도체·전기전자 동아리 **NanoX** 부기장
+- **2025** · AI 팀 **CNSAi** 팀장
+
 ### 대표 프로젝트
 
 <a href="https://github.com/n1a2m3y4u5n/liplab"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-liplab-dark.svg"><img src="assets/pin-liplab-light.svg" width="49%" alt="liplab"></picture></a>
@@ -37,13 +42,6 @@
 | 2025.10.15 | 금상 (1위) | 충남삼성고등학교장상 | 교내 과학발명품 경진대회 | LifeDoor |
 | 2025.08.01 | 우수상 | UNIST 총장상 | 제9회 슈퍼컴퓨팅 청소년캠프 | MPI 감염병 확산 시뮬레이터 |
 | 2025.04.15 | 은상 (2위) | 충남삼성고등학교장상 | 교내 청소년 과학 페어 | [Reloop](https://github.com/n1a2m3y4u5n/reloop-app) |
-
-### 활동
-
-| 기간 | 역할 | 한 일 |
-|---|---|---|
-| 2025 ~ 2026 | 반도체·전기전자 동아리 **NanoX** 부기장 | 2025: CS부문 기장. 「오토마타와 형식언어」 수업 2~7차시 설계·강의, 수준별 과제 출제와 채점<br>2026: 디지털 논리회로 강의, 74LS181 ALU 비정격 오류·STM32 UART 방식 비교 실습 보고서 공저 |
-| 2025 | AI 팀 **CNSAi** 팀장 | 한국어 음성 AI 팀. LIPLAB·SnapCare 등 개발과 대회 출품 |
 
 ### 그 밖의 작업
 
