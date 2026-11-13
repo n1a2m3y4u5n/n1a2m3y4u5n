@@ -20,10 +20,11 @@
 <a href="https://github.com/n1a2m3y4u5n/reloop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-reloop-dark.svg"><img src="assets/pin-reloop-light.svg" width="49%" alt="reloop"></picture></a>
 <a href="https://github.com/n1a2m3y4u5n/hydrogel-launcher"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-hydrogel-dark.svg"><img src="assets/pin-hydrogel-light.svg" width="49%" alt="hydrogel-launcher"></picture></a>
 
-### 수상 20
+### 수상 21
 
 | 날짜 | 등급 | 명의 | 대회 | 작품 |
 |---|---|---|---|---|
+| 2026.11.13 | **대상** (1위) | 해양수산부 장관상 | 2026년 DACON 항만 문제해결을 위한 AI 기술 공모전 | |
 | 2026.09.18 | 동상 | 국가데이터처장상 | 제28회 전국학생통계활용대회 | 건강정보 AI 생성 실태 분석 |
 | 2026.09.05 | 우수상 | (사)환경교육센터 이사장상 | 제15회 에너지·환경 탐구대회 | 산불 진압 하이드로겔 |
 | 2026.08.31 | **최우수상** | 충남삼성고등학교장상 | 충남삼성고 11기 IT 디플로마 | |
